@@ -1,0 +1,8 @@
+{
+  "appId": "com.leviathan.andreco",
+  "appName": "leviathan",
+  "webDir": "dist/client",
+  "server": {
+    "androidScheme": "https"
+  }
+}
